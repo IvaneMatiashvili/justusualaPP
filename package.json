@@ -1,0 +1,23 @@
+{
+  "name": "somthing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@superset-ui/translation": "^0.14.23",
+    "boxen": "^4.2.0",
+    "chalk": "2.4",
+    "google-translate": "^3.0.0",
+    "gtts": "^0.1.1",
+    "ibm-watson": "^6.2.2",
+    "translate": "^1.4.1",
+    "translatte": "^3.0.1",
+    "voice-recognition": "^1.0.6"
+  },
+  "description": ""
+}

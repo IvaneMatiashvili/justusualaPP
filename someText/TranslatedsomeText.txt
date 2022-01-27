@@ -1,0 +1,33 @@
+est: არის 
+one: ერთი 
+who: ჯანმო 
+it: ის 
+have: ქონა 
+it,: ეს, 
+seeks: ეძებს 
+is: არის 
+pain: ტკივილი 
+qui: Ჯანმო 
+pain...": ტკივილი ... " 
+to: -კენ 
+dolorem: მწუხარება 
+"There: "იქ 
+after: შემდეგ 
+it: ის 
+loves: უყვარს 
+and: და 
+simply: უბრალოდ 
+no: არა 
+sit: ჯდომა 
+is: არის 
+who: ჯანმო 
+because: იმიტომ რომ 
+quia: -თვის 
+"Neque: "ან 
+consectetur,: გაუმჯობესებული 
+quisquam: ვინმე 
+porro: უფრო 
+amet,: ფილმი: 
+velit...": გთხოვთ ... " 
+adipisci: მიღება 
+ipsum: თავისთავად 

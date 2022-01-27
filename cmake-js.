@@ -1,0 +1,2 @@
+const vr = require("voice-recognition");
+const recognizer = new vr();
